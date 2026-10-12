@@ -1,0 +1,6 @@
+@caller_to_chane_unit_HostAddress = http://localhost:5077
+
+GET {{caller_to_chane_unit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
